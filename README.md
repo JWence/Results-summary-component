@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://your-solution-url.com)
+- Solution URL: (https://result-summary-component-jw.netlify.app/)
 - Live Site URL: (https://your-live-site-url.com)
 
 ### Built with
